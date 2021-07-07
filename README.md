@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harsh6975&theme=neon-dark&hide_border=true&border=D3DD21)](https://git.io/streak-stats)
+<img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harsh6975&theme=neon-dark&hide_border=true&border=D3DD21)](https://git.io/streak-stats)">
 </p>
 
 <p align="center">
