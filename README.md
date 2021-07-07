@@ -1,11 +1,14 @@
- ### Hi there, I'm Harsh Sinha [harsh6975][website] 👋
+ ### ✨ Hi there, I'm Harsh Sinha [harsh6975][website] 👋 ✨ ![](https://komarev.com/ghpvc/?username=harsh6975&color=blueviolet)
  <h4>       
  
-- 2<sup>nd</sup> Year Student.
-- Currently Pursuing B.Tech From **IIT GUWAHATI.**
+- 2<sup>nd</sup> Year  B.Tech Student IIT GUWAHATI.
  
 <h4/>
 
+ 
+ 
+ 
+ 
 ## I'm a Front-end Developer, moving towards Full Stack Developer and also interested in App Development!!
 
  
