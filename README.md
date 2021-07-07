@@ -1,14 +1,14 @@
  ### Hi there, I'm Harsh Sinha [harsh6975][website] 👋
  <h4>       
+ 
 - 2<sup>nd</sup> Year Student.
-- Currently Pursuing **B.Tech From **IIT GUWAHATI**.**
+- Currently Pursuing **B.Tech From **IIT GUWAHATI.**
+ 
 <h4/>
 
-<!---*[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)*/
--->
 ## I'm a Front-end Developer, moving towards Full Stack Developer and also interested in App Development!!
 
+ 
 - 🔭 I’m working on my own protfolio
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate with other content creators
@@ -27,7 +27,7 @@
 
 <br />
 
-### Languages and Tools:
+### <h2 align="center"> Languages and Tools<h2/>
 
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
