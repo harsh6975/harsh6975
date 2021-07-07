@@ -29,12 +29,12 @@
 
 ### <h2 align="center"> Languages and Tools<h2/>
 
-
+<div align="center">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
- 
+ </div> 
 <br />
 <br />
 
@@ -50,7 +50,7 @@
 <p align="center">
  
   <a href="https://github.com/harsh6975/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harhs6975&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=harsh6975&theme=neon-dark&hide_border=true&border=D3DD21"/>
   </a>
     
 ### <h2 align="center">🏆 Github Trophies 🏆<h2/>
