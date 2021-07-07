@@ -2,7 +2,7 @@
  <h4>       
  
 - 2<sup>nd</sup> Year Student.
-- Currently Pursuing **B.Tech From **IIT GUWAHATI.**
+- Currently Pursuing B.Tech From **IIT GUWAHATI.**
  
 <h4/>
 
