@@ -1,10 +1,7 @@
  ### Hi there, I'm Harsh Sinha [harsh6975][website] 👋
- <br>
- <h4>   
-    
+ <h4>       
 - 2<sup>nd</sup> Year Student.
 - Currently Pursuing **B.Tech From **IIT GUWAHATI**.**
-
 <h4/>
 
 <!---*[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -20,19 +17,23 @@
 
 
 ### <h2 align="center">🤳 Feel Free to **Contact Me**<h2/>
-
-[<img align="left" alt="harsh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="harsh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ <body>
+    <div class="img1">
+<p align='center'>
+<a href="https://www.linkedin.com/in/harsh-sinha-195328197/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>  <a href="mailto:harshu1234ashv@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>
+<p/>
+</div>
+</body>
 
 <br />
 
 ### Languages and Tools:
 
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 <!---
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
@@ -59,7 +60,7 @@
  ### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
 <p align="center">
   <a href="https://github.com/harsh6975/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harhs6975&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?username=harhs6975&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
     
 ### <h2 align="center">🏆 Github Trophies 🏆<h2/>
