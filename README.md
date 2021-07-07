@@ -66,7 +66,7 @@
 ### <h2 align="center">⚙️ Github Stats ⚙️<h2/>   
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harsh6975&show_icons=true&theme=dracula" alt="Harsh" />
+<img src="https://github-readme-stats.vercel.app/api?username=harsh6975&count_private=true&show_icons=true&theme=dracula" alt="Harsh" />
 </p>
 
 <p align="center">
