@@ -1,6 +1,8 @@
  ### ✨ Hi there, I'm Harsh Sinha [harsh6975][website] 👋 ✨ ![](https://komarev.com/ghpvc/?username=harsh6975&color=blueviolet)
  <h4>       
  
+ ![harsh6975 (1)](https://user-images.githubusercontent.com/59584173/120915465-6a56e700-c6c1-11eb-945b-31410216bf08.gif)
+ 
 - 2<sup>nd</sup> Year  B.Tech Student IIT GUWAHATI.
  
 <h4/>
