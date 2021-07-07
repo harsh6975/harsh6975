@@ -61,9 +61,6 @@
 </p>
     
 ### <h2 align="center">⚙️ Github Stats ⚙️<h2/>   
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=harsh6975&theme=xcode" alt="Harsh" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=harsh6975&show_icons=true&theme=dracula" alt="Harsh" />
