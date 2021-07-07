@@ -52,6 +52,9 @@
   <a href="https://github.com/harsh6975/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?username=harhs6975&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
+ <a href="https://github.com/bilal-23/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-23&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+ </a>
     
 ### <h2 align="center">🏆 Github Trophies 🏆<h2/>
 <p align="center">
