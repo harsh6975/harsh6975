@@ -53,7 +53,7 @@
 <p align="center">
  
   <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=harsh6975&count_private=true&theme=neon-dark&hide_border=true&border=D3DD21"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh6975&count_private=true&theme=neon-dark&hide_border=true&border=D3DD21"/>
   </a>
     
 ### <h2 align="center">🏆 Github Trophies 🏆<h2/>
