@@ -9,12 +9,12 @@
  
  
  
-## I'm a Front-end Developer, moving towards Full Stack Developer and also interested in App Development!!
+## I'm a Full Stack Developer and also interested in App Development!!
 
  
 - 🔭 I’m working on my own protfolio
-- 🌱 I’m currently learning ReactJs
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning NodeJs
+- 👯 I’m looking to collaborate with other content creators and backend developer
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games
 
