@@ -1,7 +1,7 @@
  ### ✨ Hi there, I'm Harsh Sinha [harsh6975][website] 👋 ✨ ![](https://komarev.com/ghpvc/?username=harsh6975&color=blueviolet)
  <h4>       
  
-- 2<sup>nd</sup> Year  B.Tech Student IIT GUWAHATI.
+- 3<sup>nd</sup> Year  B.Tech Student IIT GUWAHATI.
  
 <h4/>
 
@@ -13,7 +13,7 @@
 
  
 - 🔭 I’m working on my own protfolio
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m currently looking for new opportunity
 - 👯 I’m looking to collaborate with other content creators and backend developer
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games
