@@ -9,7 +9,7 @@
  
  
  
-## MERN Stack Developer || Interested in App Development || New Tech-Stack Learner !!
+## MERN Stack Developer || Competitive Programmer || New Tech-Stack Learner !!
 
  
 - 🔭 I’m working on my own protfolio
