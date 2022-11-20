@@ -1,4 +1,4 @@
- ### ✨ Hi there, I'm Harsh Sinha [harsh6975][website] 👋 ✨ ![](https://komarev.com/ghpvc/?username=harsh6975&color=blueviolet)
+ ### ✨ Hi there, I'm Harsh Sinha [harsh6975][website] 👋 ✨ 
  <h4>       
  
 - 4<sup>th</sup> Year  B.Tech Student IIT GUWAHATI.
@@ -12,7 +12,7 @@
 ## MERN Stack Developer || Competitive Programmer || New Tech-Stack Learner !!
 
  
-- 🔭 I’m working on my own protfolio
+- 🔭 I’m working on my own portfolio 
 - 🌱 I’m currently looking for new opportunity
 - 👯 I’m looking to collaborate with other content creators and backend developer
 - ⚡ Fun fact: I love to play games
