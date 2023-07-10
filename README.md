@@ -1,7 +1,7 @@
  ### ✨ Hi there, I'm Harsh Sinha [harsh6975][website] 👋 ✨ 
  <h4>       
  
-- 4<sup>th</sup> Year  B.Tech Student IIT GUWAHATI.
+- B.Tech Student IIT GUWAHATI.
  
 <h4/>
 
