@@ -9,7 +9,7 @@
  
  
  
-## MERN Stack Developer || Competitive Programmer || New Tech-Stack Learner !!
+## MERN Stack Developer || New Tech-Stack Learner !!
 
  
 - 🔭 I’m working on my own portfolio 
@@ -32,8 +32,8 @@
 ### <h2 align="center"> Languages and Tools<h2/>
 
 <p align="center">
- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
- <img align="left" alt="React" width="26px" src=" https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
+ <img align="left" alt="React" width="26px" src="https://ubidreams.fr/en/expertises/development/react-js"/>
+ <img align="left" alt="NodeJs" width="26px" src=" https://www.flaticon.com/free-icon/nodejs_919825"/>
  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
